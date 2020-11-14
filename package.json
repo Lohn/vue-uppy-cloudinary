@@ -17,7 +17,7 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
-    "uppy": "^0.22.1",
+    "uppy": "^0.30.5",
     "vue": "^2.3.3"
   },
   "files": [
